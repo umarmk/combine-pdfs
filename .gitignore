@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+uploads/
+merged/
+*.pdf
+!backend_test_merged.pdf
